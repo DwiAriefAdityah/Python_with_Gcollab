@@ -1,3 +1,3 @@
-# image-to-sketch
+# Have Fun with Python
 
 Amazing Code :)
